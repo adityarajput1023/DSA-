@@ -23,6 +23,7 @@ MY solution of Leetcode Problems
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/adityarajput1023/DSA-/tree/master/0231-power-of-two) |
+| [1009-complement-of-base-10-integer](https://github.com/adityarajput1023/DSA-/tree/master/1009-complement-of-base-10-integer) |
 ## Recursion
 |  |
 | ------- |
