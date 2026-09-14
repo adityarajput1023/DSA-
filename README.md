@@ -13,6 +13,7 @@ MY solution of Leetcode Problems
 | [0258-add-digits](https://github.com/adityarajput1023/DSA-/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/adityarajput1023/DSA-/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/adityarajput1023/DSA-/tree/master/0342-power-of-four) |
+| [0509-fibonacci-number](https://github.com/adityarajput1023/DSA-/tree/master/0509-fibonacci-number) |
 ## Simulation
 |  |
 | ------- |
@@ -33,6 +34,7 @@ MY solution of Leetcode Problems
 | [0231-power-of-two](https://github.com/adityarajput1023/DSA-/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/adityarajput1023/DSA-/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/adityarajput1023/DSA-/tree/master/0342-power-of-four) |
+| [0509-fibonacci-number](https://github.com/adityarajput1023/DSA-/tree/master/0509-fibonacci-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -41,4 +43,12 @@ MY solution of Leetcode Problems
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/adityarajput1023/DSA-/tree/master/0069-sqrtx) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/adityarajput1023/DSA-/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/adityarajput1023/DSA-/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
