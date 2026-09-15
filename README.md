@@ -14,6 +14,7 @@ MY solution of Leetcode Problems
 | [0326-power-of-three](https://github.com/adityarajput1023/DSA-/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/adityarajput1023/DSA-/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/adityarajput1023/DSA-/tree/master/0509-fibonacci-number) |
+| [2469-convert-the-temperature](https://github.com/adityarajput1023/DSA-/tree/master/2469-convert-the-temperature) |
 ## Simulation
 |  |
 | ------- |
