@@ -13,6 +13,7 @@ MY solution of Leetcode Problems
 | [0258-add-digits](https://github.com/adityarajput1023/DSA-/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/adityarajput1023/DSA-/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/adityarajput1023/DSA-/tree/master/0342-power-of-four) |
+| [0412-fizz-buzz](https://github.com/adityarajput1023/DSA-/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/adityarajput1023/DSA-/tree/master/0509-fibonacci-number) |
 | [2235-add-two-integers](https://github.com/adityarajput1023/DSA-/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/adityarajput1023/DSA-/tree/master/2469-convert-the-temperature) |
@@ -20,6 +21,7 @@ MY solution of Leetcode Problems
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/adityarajput1023/DSA-/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/adityarajput1023/DSA-/tree/master/0412-fizz-buzz) |
 ## Number Theory
 |  |
 | ------- |
@@ -69,4 +71,8 @@ MY solution of Leetcode Problems
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/adityarajput1023/DSA-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## String
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/adityarajput1023/DSA-/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
