@@ -9,6 +9,7 @@ MY solution of Leetcode Problems
 | [0007-reverse-integer](https://github.com/adityarajput1023/DSA-/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/adityarajput1023/DSA-/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/adityarajput1023/DSA-/tree/master/0069-sqrtx) |
+| [0172-factorial-trailing-zeroes](https://github.com/adityarajput1023/DSA-/tree/master/0172-factorial-trailing-zeroes) |
 | [0231-power-of-two](https://github.com/adityarajput1023/DSA-/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/adityarajput1023/DSA-/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/adityarajput1023/DSA-/tree/master/0326-power-of-three) |
