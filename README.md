@@ -61,6 +61,7 @@ MY solution of Leetcode Problems
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/adityarajput1023/DSA-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1480-running-sum-of-1d-array](https://github.com/adityarajput1023/DSA-/tree/master/1480-running-sum-of-1d-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -97,4 +98,8 @@ MY solution of Leetcode Problems
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/adityarajput1023/DSA-/tree/master/0292-nim-game) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/adityarajput1023/DSA-/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
