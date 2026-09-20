@@ -25,6 +25,7 @@ MY solution of Leetcode Problems
 | [0258-add-digits](https://github.com/adityarajput1023/DSA-/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/adityarajput1023/DSA-/tree/master/0412-fizz-buzz) |
 | [1929-concatenation-of-array](https://github.com/adityarajput1023/DSA-/tree/master/1929-concatenation-of-array) |
+| [3498-reverse-degree-of-a-string](https://github.com/adityarajput1023/DSA-/tree/master/3498-reverse-degree-of-a-string) |
 ## Number Theory
 |  |
 | ------- |
@@ -80,6 +81,7 @@ MY solution of Leetcode Problems
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/adityarajput1023/DSA-/tree/master/0412-fizz-buzz) |
+| [3498-reverse-degree-of-a-string](https://github.com/adityarajput1023/DSA-/tree/master/3498-reverse-degree-of-a-string) |
 ## Brainteaser
 |  |
 | ------- |
