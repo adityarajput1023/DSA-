@@ -10,6 +10,7 @@ MY solution of Leetcode Problems
 | [0009-palindrome-number](https://github.com/adityarajput1023/DSA-/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/adityarajput1023/DSA-/tree/master/0069-sqrtx) |
 | [0172-factorial-trailing-zeroes](https://github.com/adityarajput1023/DSA-/tree/master/0172-factorial-trailing-zeroes) |
+| [0189-rotate-array](https://github.com/adityarajput1023/DSA-/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/adityarajput1023/DSA-/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/adityarajput1023/DSA-/tree/master/0258-add-digits) |
 | [0292-nim-game](https://github.com/adityarajput1023/DSA-/tree/master/0292-nim-game) |
@@ -62,6 +63,7 @@ MY solution of Leetcode Problems
 ## Array
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/adityarajput1023/DSA-/tree/master/0189-rotate-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/adityarajput1023/DSA-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1480-running-sum-of-1d-array](https://github.com/adityarajput1023/DSA-/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/adityarajput1023/DSA-/tree/master/1929-concatenation-of-array) |
@@ -106,4 +108,8 @@ MY solution of Leetcode Problems
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/adityarajput1023/DSA-/tree/master/1480-running-sum-of-1d-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/adityarajput1023/DSA-/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
