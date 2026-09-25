@@ -18,6 +18,7 @@ MY solution of Leetcode Problems
 | [0342-power-of-four](https://github.com/adityarajput1023/DSA-/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/adityarajput1023/DSA-/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/adityarajput1023/DSA-/tree/master/0509-fibonacci-number) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/adityarajput1023/DSA-/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/adityarajput1023/DSA-/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2235-add-two-integers](https://github.com/adityarajput1023/DSA-/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/adityarajput1023/DSA-/tree/master/2469-convert-the-temperature) |
