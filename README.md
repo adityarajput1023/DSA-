@@ -68,6 +68,7 @@ MY solution of Leetcode Problems
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/adityarajput1023/DSA-/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/adityarajput1023/DSA-/tree/master/0217-contains-duplicate) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/adityarajput1023/DSA-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/adityarajput1023/DSA-/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/adityarajput1023/DSA-/tree/master/1480-running-sum-of-1d-array) |
@@ -76,10 +77,12 @@ MY solution of Leetcode Problems
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/adityarajput1023/DSA-/tree/master/0217-contains-duplicate) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/adityarajput1023/DSA-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/adityarajput1023/DSA-/tree/master/0217-contains-duplicate) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/adityarajput1023/DSA-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting Sort
 |  |
