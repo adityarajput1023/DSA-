@@ -52,6 +52,7 @@ MY solution of Leetcode Problems
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/adityarajput1023/DSA-/tree/master/0069-sqrtx) |
+| [0704-binary-search](https://github.com/adityarajput1023/DSA-/tree/master/0704-binary-search) |
 ## Newton's Method
 |  |
 | ------- |
@@ -69,6 +70,7 @@ MY solution of Leetcode Problems
 | ------- |
 | [0189-rotate-array](https://github.com/adityarajput1023/DSA-/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/adityarajput1023/DSA-/tree/master/0217-contains-duplicate) |
+| [0704-binary-search](https://github.com/adityarajput1023/DSA-/tree/master/0704-binary-search) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/adityarajput1023/DSA-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/adityarajput1023/DSA-/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/adityarajput1023/DSA-/tree/master/1480-running-sum-of-1d-array) |
