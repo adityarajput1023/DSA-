@@ -8,6 +8,7 @@ MY solution of Leetcode Problems
 | ------- |
 | [0007-reverse-integer](https://github.com/adityarajput1023/DSA-/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/adityarajput1023/DSA-/tree/master/0009-palindrome-number) |
+| [0029-divide-two-integers](https://github.com/adityarajput1023/DSA-/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/adityarajput1023/DSA-/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/adityarajput1023/DSA-/tree/master/0069-sqrtx) |
 | [0172-factorial-trailing-zeroes](https://github.com/adityarajput1023/DSA-/tree/master/0172-factorial-trailing-zeroes) |
@@ -38,6 +39,7 @@ MY solution of Leetcode Problems
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/adityarajput1023/DSA-/tree/master/0029-divide-two-integers) |
 | [0231-power-of-two](https://github.com/adityarajput1023/DSA-/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/adityarajput1023/DSA-/tree/master/0342-power-of-four) |
 | [1009-complement-of-base-10-integer](https://github.com/adityarajput1023/DSA-/tree/master/1009-complement-of-base-10-integer) |
