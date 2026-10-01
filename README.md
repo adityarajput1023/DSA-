@@ -101,6 +101,7 @@ MY solution of Leetcode Problems
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/adityarajput1023/DSA-/tree/master/0020-valid-parentheses) |
 | [0412-fizz-buzz](https://github.com/adityarajput1023/DSA-/tree/master/0412-fizz-buzz) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/adityarajput1023/DSA-/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3498-reverse-degree-of-a-string](https://github.com/adityarajput1023/DSA-/tree/master/3498-reverse-degree-of-a-string) |
@@ -133,4 +134,12 @@ MY solution of Leetcode Problems
 | ------- |
 | [0189-rotate-array](https://github.com/adityarajput1023/DSA-/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/adityarajput1023/DSA-/tree/master/0283-move-zeroes) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/adityarajput1023/DSA-/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/adityarajput1023/DSA-/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
