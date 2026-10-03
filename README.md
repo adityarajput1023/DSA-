@@ -66,6 +66,7 @@ MY solution of Leetcode Problems
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/adityarajput1023/DSA-/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/adityarajput1023/DSA-/tree/master/0032-longest-valid-parentheses) |
 | [0509-fibonacci-number](https://github.com/adityarajput1023/DSA-/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -104,6 +105,7 @@ MY solution of Leetcode Problems
 | ------- |
 | [0020-valid-parentheses](https://github.com/adityarajput1023/DSA-/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/adityarajput1023/DSA-/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/adityarajput1023/DSA-/tree/master/0032-longest-valid-parentheses) |
 | [0412-fizz-buzz](https://github.com/adityarajput1023/DSA-/tree/master/0412-fizz-buzz) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/adityarajput1023/DSA-/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3498-reverse-degree-of-a-string](https://github.com/adityarajput1023/DSA-/tree/master/3498-reverse-degree-of-a-string) |
@@ -140,11 +142,13 @@ MY solution of Leetcode Problems
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/adityarajput1023/DSA-/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/adityarajput1023/DSA-/tree/master/0032-longest-valid-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/adityarajput1023/DSA-/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/adityarajput1023/DSA-/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/adityarajput1023/DSA-/tree/master/0032-longest-valid-parentheses) |
 ## Backtracking
 |  |
 | ------- |
