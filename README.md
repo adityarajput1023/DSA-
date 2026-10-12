@@ -45,6 +45,7 @@ MY solution of Leetcode Problems
 | [0342-power-of-four](https://github.com/adityarajput1023/DSA-/tree/master/0342-power-of-four) |
 | [1009-complement-of-base-10-integer](https://github.com/adityarajput1023/DSA-/tree/master/1009-complement-of-base-10-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/adityarajput1023/DSA-/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/adityarajput1023/DSA-/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Recursion
 |  |
 | ------- |
@@ -89,12 +90,14 @@ MY solution of Leetcode Problems
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/adityarajput1023/DSA-/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/adityarajput1023/DSA-/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/adityarajput1023/DSA-/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/adityarajput1023/DSA-/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/adityarajput1023/DSA-/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Hash Table
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/adityarajput1023/DSA-/tree/master/0217-contains-duplicate) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/adityarajput1023/DSA-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/adityarajput1023/DSA-/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Sorting
 |  |
 | ------- |
@@ -182,6 +185,7 @@ MY solution of Leetcode Problems
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/adityarajput1023/DSA-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/adityarajput1023/DSA-/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/adityarajput1023/DSA-/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/adityarajput1023/DSA-/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Breadth-First Search
 |  |
 | ------- |
