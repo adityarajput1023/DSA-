@@ -93,6 +93,7 @@ MY solution of Leetcode Problems
 | [2778-sum-of-squares-of-special-elements](https://github.com/adityarajput1023/DSA-/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/adityarajput1023/DSA-/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/adityarajput1023/DSA-/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/adityarajput1023/DSA-/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/adityarajput1023/DSA-/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/adityarajput1023/DSA-/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Hash Table
@@ -102,6 +103,7 @@ MY solution of Leetcode Problems
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/adityarajput1023/DSA-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/adityarajput1023/DSA-/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/adityarajput1023/DSA-/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/adityarajput1023/DSA-/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -209,8 +211,10 @@ MY solution of Leetcode Problems
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/adityarajput1023/DSA-/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/adityarajput1023/DSA-/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 ## Segment Tree
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/adityarajput1023/DSA-/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/adityarajput1023/DSA-/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 <!---LeetCode Topics End-->
