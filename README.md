@@ -22,6 +22,7 @@ MY solution of Leetcode Problems
 | [0509-fibonacci-number](https://github.com/adityarajput1023/DSA-/tree/master/0509-fibonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/adityarajput1023/DSA-/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/adityarajput1023/DSA-/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/adityarajput1023/DSA-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2235-add-two-integers](https://github.com/adityarajput1023/DSA-/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/adityarajput1023/DSA-/tree/master/2469-convert-the-temperature) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/adityarajput1023/DSA-/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -72,10 +73,12 @@ MY solution of Leetcode Problems
 | [0032-longest-valid-parentheses](https://github.com/adityarajput1023/DSA-/tree/master/0032-longest-valid-parentheses) |
 | [0509-fibonacci-number](https://github.com/adityarajput1023/DSA-/tree/master/0509-fibonacci-number) |
 | [0678-valid-parenthesis-string](https://github.com/adityarajput1023/DSA-/tree/master/0678-valid-parenthesis-string) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/adityarajput1023/DSA-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Memoization
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/adityarajput1023/DSA-/tree/master/0509-fibonacci-number) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/adityarajput1023/DSA-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Array
 |  |
 | ------- |
@@ -87,6 +90,7 @@ MY solution of Leetcode Problems
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/adityarajput1023/DSA-/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/adityarajput1023/DSA-/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/adityarajput1023/DSA-/tree/master/1480-running-sum-of-1d-array) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/adityarajput1023/DSA-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1929-concatenation-of-array](https://github.com/adityarajput1023/DSA-/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/adityarajput1023/DSA-/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/adityarajput1023/DSA-/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -220,4 +224,32 @@ MY solution of Leetcode Problems
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/adityarajput1023/DSA-/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/adityarajput1023/DSA-/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/adityarajput1023/DSA-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Tree
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/adityarajput1023/DSA-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Union-Find
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/adityarajput1023/DSA-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/adityarajput1023/DSA-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Combinatorics
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/adityarajput1023/DSA-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Binary Tree
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/adityarajput1023/DSA-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/adityarajput1023/DSA-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
