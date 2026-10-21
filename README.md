@@ -143,6 +143,7 @@ MY solution of Leetcode Problems
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/adityarajput1023/DSA-/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/adityarajput1023/DSA-/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3498-reverse-degree-of-a-string](https://github.com/adityarajput1023/DSA-/tree/master/3498-reverse-degree-of-a-string) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/adityarajput1023/DSA-/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Brainteaser
 |  |
 | ------- |
