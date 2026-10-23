@@ -49,6 +49,7 @@ MY solution of Leetcode Problems
 | [1009-complement-of-base-10-integer](https://github.com/adityarajput1023/DSA-/tree/master/1009-complement-of-base-10-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/adityarajput1023/DSA-/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/adityarajput1023/DSA-/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/adityarajput1023/DSA-/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Recursion
 |  |
 | ------- |
@@ -103,6 +104,7 @@ MY solution of Leetcode Problems
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/adityarajput1023/DSA-/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/adityarajput1023/DSA-/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/adityarajput1023/DSA-/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/adityarajput1023/DSA-/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/adityarajput1023/DSA-/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3886-sum-of-sortable-integers](https://github.com/adityarajput1023/DSA-/tree/master/3886-sum-of-sortable-integers) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/adityarajput1023/DSA-/tree/master/3942-minimum-operations-to-sort-a-permutation) |
