@@ -24,6 +24,7 @@ MY solution of Leetcode Problems
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/adityarajput1023/DSA-/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/adityarajput1023/DSA-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2235-add-two-integers](https://github.com/adityarajput1023/DSA-/tree/master/2235-add-two-integers) |
+| [2409-count-days-spent-together](https://github.com/adityarajput1023/DSA-/tree/master/2409-count-days-spent-together) |
 | [2469-convert-the-temperature](https://github.com/adityarajput1023/DSA-/tree/master/2469-convert-the-temperature) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/adityarajput1023/DSA-/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/adityarajput1023/DSA-/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -145,6 +146,7 @@ MY solution of Leetcode Problems
 | [1021-remove-outermost-parentheses](https://github.com/adityarajput1023/DSA-/tree/master/1021-remove-outermost-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/adityarajput1023/DSA-/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/adityarajput1023/DSA-/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2409-count-days-spent-together](https://github.com/adityarajput1023/DSA-/tree/master/2409-count-days-spent-together) |
 | [3498-reverse-degree-of-a-string](https://github.com/adityarajput1023/DSA-/tree/master/3498-reverse-degree-of-a-string) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/adityarajput1023/DSA-/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Brainteaser
