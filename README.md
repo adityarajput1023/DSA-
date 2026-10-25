@@ -90,6 +90,7 @@ MY solution of Leetcode Problems
 | [0217-contains-duplicate](https://github.com/adityarajput1023/DSA-/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/adityarajput1023/DSA-/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/adityarajput1023/DSA-/tree/master/0704-binary-search) |
+| [1254-number-of-closed-islands](https://github.com/adityarajput1023/DSA-/tree/master/1254-number-of-closed-islands) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/adityarajput1023/DSA-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/adityarajput1023/DSA-/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/adityarajput1023/DSA-/tree/master/1470-shuffle-the-array) |
@@ -218,6 +219,7 @@ MY solution of Leetcode Problems
 |  |
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/adityarajput1023/DSA-/tree/master/0301-remove-invalid-parentheses) |
+| [1254-number-of-closed-islands](https://github.com/adityarajput1023/DSA-/tree/master/1254-number-of-closed-islands) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -248,6 +250,7 @@ MY solution of Leetcode Problems
 ## Union-Find
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/adityarajput1023/DSA-/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/adityarajput1023/DSA-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Binary Search Tree
 |  |
@@ -265,4 +268,12 @@ MY solution of Leetcode Problems
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/adityarajput1023/DSA-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Depth-First Search
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/adityarajput1023/DSA-/tree/master/1254-number-of-closed-islands) |
+## Matrix
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/adityarajput1023/DSA-/tree/master/1254-number-of-closed-islands) |
 <!---LeetCode Topics End-->
