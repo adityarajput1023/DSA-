@@ -51,6 +51,7 @@ MY solution of Leetcode Problems
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/adityarajput1023/DSA-/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/adityarajput1023/DSA-/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/adityarajput1023/DSA-/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/adityarajput1023/DSA-/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/adityarajput1023/DSA-/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Recursion
 |  |
@@ -111,6 +112,7 @@ MY solution of Leetcode Problems
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/adityarajput1023/DSA-/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/adityarajput1023/DSA-/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/adityarajput1023/DSA-/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/adityarajput1023/DSA-/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/adityarajput1023/DSA-/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3886-sum-of-sortable-integers](https://github.com/adityarajput1023/DSA-/tree/master/3886-sum-of-sortable-integers) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/adityarajput1023/DSA-/tree/master/3942-minimum-operations-to-sort-a-permutation) |
@@ -153,6 +155,7 @@ MY solution of Leetcode Problems
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/adityarajput1023/DSA-/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2409-count-days-spent-together](https://github.com/adityarajput1023/DSA-/tree/master/2409-count-days-spent-together) |
 | [3498-reverse-degree-of-a-string](https://github.com/adityarajput1023/DSA-/tree/master/3498-reverse-degree-of-a-string) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/adityarajput1023/DSA-/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/adityarajput1023/DSA-/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Brainteaser
 |  |
@@ -239,19 +242,23 @@ MY solution of Leetcode Problems
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/adityarajput1023/DSA-/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/adityarajput1023/DSA-/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/adityarajput1023/DSA-/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Segment Tree
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/adityarajput1023/DSA-/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/adityarajput1023/DSA-/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/adityarajput1023/DSA-/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/adityarajput1023/DSA-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/adityarajput1023/DSA-/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Tree
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/adityarajput1023/DSA-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/adityarajput1023/DSA-/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Union-Find
 |  |
 | ------- |
@@ -279,6 +286,7 @@ MY solution of Leetcode Problems
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/adityarajput1023/DSA-/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/adityarajput1023/DSA-/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/adityarajput1023/DSA-/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Matrix
 |  |
 | ------- |
