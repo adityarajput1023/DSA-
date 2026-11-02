@@ -20,6 +20,7 @@ MY solution of Leetcode Problems
 | [0342-power-of-four](https://github.com/adityarajput1023/DSA-/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/adityarajput1023/DSA-/tree/master/0412-fizz-buzz) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/adityarajput1023/DSA-/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/adityarajput1023/DSA-/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0509-fibonacci-number](https://github.com/adityarajput1023/DSA-/tree/master/0509-fibonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/adityarajput1023/DSA-/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/adityarajput1023/DSA-/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -95,6 +96,7 @@ MY solution of Leetcode Problems
 | [0217-contains-duplicate](https://github.com/adityarajput1023/DSA-/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/adityarajput1023/DSA-/tree/master/0283-move-zeroes) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/adityarajput1023/DSA-/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/adityarajput1023/DSA-/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0704-binary-search](https://github.com/adityarajput1023/DSA-/tree/master/0704-binary-search) |
 | [1254-number-of-closed-islands](https://github.com/adityarajput1023/DSA-/tree/master/1254-number-of-closed-islands) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/adityarajput1023/DSA-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -133,6 +135,7 @@ MY solution of Leetcode Problems
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/adityarajput1023/DSA-/tree/master/0217-contains-duplicate) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/adityarajput1023/DSA-/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/adityarajput1023/DSA-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/adityarajput1023/DSA-/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/adityarajput1023/DSA-/tree/master/2333-minimum-sum-of-squared-difference) |
