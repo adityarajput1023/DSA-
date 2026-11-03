@@ -30,6 +30,7 @@ MY solution of Leetcode Problems
 | [2469-convert-the-temperature](https://github.com/adityarajput1023/DSA-/tree/master/2469-convert-the-temperature) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/adityarajput1023/DSA-/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/adityarajput1023/DSA-/tree/master/3723-maximize-sum-of-squares-of-digits) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/adityarajput1023/DSA-/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3886-sum-of-sortable-integers](https://github.com/adityarajput1023/DSA-/tree/master/3886-sum-of-sortable-integers) |
 ## Simulation
 |  |
@@ -118,6 +119,7 @@ MY solution of Leetcode Problems
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/adityarajput1023/DSA-/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3665-twisted-mirror-path-count](https://github.com/adityarajput1023/DSA-/tree/master/3665-twisted-mirror-path-count) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/adityarajput1023/DSA-/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/adityarajput1023/DSA-/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/adityarajput1023/DSA-/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/adityarajput1023/DSA-/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3886-sum-of-sortable-integers](https://github.com/adityarajput1023/DSA-/tree/master/3886-sum-of-sortable-integers) |
