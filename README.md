@@ -28,6 +28,7 @@ MY solution of Leetcode Problems
 | [2235-add-two-integers](https://github.com/adityarajput1023/DSA-/tree/master/2235-add-two-integers) |
 | [2409-count-days-spent-together](https://github.com/adityarajput1023/DSA-/tree/master/2409-count-days-spent-together) |
 | [2469-convert-the-temperature](https://github.com/adityarajput1023/DSA-/tree/master/2469-convert-the-temperature) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/adityarajput1023/DSA-/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/adityarajput1023/DSA-/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/adityarajput1023/DSA-/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/adityarajput1023/DSA-/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -83,6 +84,7 @@ MY solution of Leetcode Problems
 | [0509-fibonacci-number](https://github.com/adityarajput1023/DSA-/tree/master/0509-fibonacci-number) |
 | [0678-valid-parenthesis-string](https://github.com/adityarajput1023/DSA-/tree/master/0678-valid-parenthesis-string) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/adityarajput1023/DSA-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/adityarajput1023/DSA-/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3665-twisted-mirror-path-count](https://github.com/adityarajput1023/DSA-/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/adityarajput1023/DSA-/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Memoization
@@ -113,6 +115,7 @@ MY solution of Leetcode Problems
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/adityarajput1023/DSA-/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/adityarajput1023/DSA-/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/adityarajput1023/DSA-/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/adityarajput1023/DSA-/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/adityarajput1023/DSA-/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/adityarajput1023/DSA-/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/adityarajput1023/DSA-/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -132,6 +135,7 @@ MY solution of Leetcode Problems
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/adityarajput1023/DSA-/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/adityarajput1023/DSA-/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/adityarajput1023/DSA-/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/adityarajput1023/DSA-/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/adityarajput1023/DSA-/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Sorting
 |  |
@@ -242,6 +246,7 @@ MY solution of Leetcode Problems
 |  |
 | ------- |
 | [2333-minimum-sum-of-squared-difference](https://github.com/adityarajput1023/DSA-/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/adityarajput1023/DSA-/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/adityarajput1023/DSA-/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Enumeration
 |  |
@@ -313,4 +318,8 @@ MY solution of Leetcode Problems
 |  |
 | ------- |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/adityarajput1023/DSA-/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Sliding Window
+|  |
+| ------- |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/adityarajput1023/DSA-/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 <!---LeetCode Topics End-->
