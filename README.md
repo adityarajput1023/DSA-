@@ -70,6 +70,7 @@ MY solution of Leetcode Problems
 | ------- |
 | [0069-sqrtx](https://github.com/adityarajput1023/DSA-/tree/master/0069-sqrtx) |
 | [0704-binary-search](https://github.com/adityarajput1023/DSA-/tree/master/0704-binary-search) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/adityarajput1023/DSA-/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/adityarajput1023/DSA-/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/adityarajput1023/DSA-/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Newton's Method
@@ -103,6 +104,7 @@ MY solution of Leetcode Problems
 | [0704-binary-search](https://github.com/adityarajput1023/DSA-/tree/master/0704-binary-search) |
 | [1254-number-of-closed-islands](https://github.com/adityarajput1023/DSA-/tree/master/1254-number-of-closed-islands) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/adityarajput1023/DSA-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/adityarajput1023/DSA-/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/adityarajput1023/DSA-/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/adityarajput1023/DSA-/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/adityarajput1023/DSA-/tree/master/1480-running-sum-of-1d-array) |
@@ -143,6 +145,7 @@ MY solution of Leetcode Problems
 | [0217-contains-duplicate](https://github.com/adityarajput1023/DSA-/tree/master/0217-contains-duplicate) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/adityarajput1023/DSA-/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/adityarajput1023/DSA-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/adityarajput1023/DSA-/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/adityarajput1023/DSA-/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/adityarajput1023/DSA-/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/adityarajput1023/DSA-/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -200,6 +203,7 @@ MY solution of Leetcode Problems
 | ------- |
 | [0189-rotate-array](https://github.com/adityarajput1023/DSA-/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/adityarajput1023/DSA-/tree/master/0283-move-zeroes) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/adityarajput1023/DSA-/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Stack
 |  |
 | ------- |
