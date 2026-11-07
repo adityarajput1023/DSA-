@@ -109,6 +109,7 @@ MY solution of Leetcode Problems
 | [1470-shuffle-the-array](https://github.com/adityarajput1023/DSA-/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/adityarajput1023/DSA-/tree/master/1480-running-sum-of-1d-array) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/adityarajput1023/DSA-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [1882-process-tasks-using-servers](https://github.com/adityarajput1023/DSA-/tree/master/1882-process-tasks-using-servers) |
 | [1929-concatenation-of-array](https://github.com/adityarajput1023/DSA-/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/adityarajput1023/DSA-/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/adityarajput1023/DSA-/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -252,6 +253,7 @@ MY solution of Leetcode Problems
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1882-process-tasks-using-servers](https://github.com/adityarajput1023/DSA-/tree/master/1882-process-tasks-using-servers) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/adityarajput1023/DSA-/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/adityarajput1023/DSA-/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/adityarajput1023/DSA-/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
