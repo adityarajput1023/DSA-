@@ -24,6 +24,7 @@ MY solution of Leetcode Problems
 | [0509-fibonacci-number](https://github.com/adityarajput1023/DSA-/tree/master/0509-fibonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/adityarajput1023/DSA-/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/adityarajput1023/DSA-/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/adityarajput1023/DSA-/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/adityarajput1023/DSA-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2235-add-two-integers](https://github.com/adityarajput1023/DSA-/tree/master/2235-add-two-integers) |
 | [2409-count-days-spent-together](https://github.com/adityarajput1023/DSA-/tree/master/2409-count-days-spent-together) |
@@ -86,6 +87,7 @@ MY solution of Leetcode Problems
 | [0032-longest-valid-parentheses](https://github.com/adityarajput1023/DSA-/tree/master/0032-longest-valid-parentheses) |
 | [0509-fibonacci-number](https://github.com/adityarajput1023/DSA-/tree/master/0509-fibonacci-number) |
 | [0678-valid-parenthesis-string](https://github.com/adityarajput1023/DSA-/tree/master/0678-valid-parenthesis-string) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/adityarajput1023/DSA-/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/adityarajput1023/DSA-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/adityarajput1023/DSA-/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3665-twisted-mirror-path-count](https://github.com/adityarajput1023/DSA-/tree/master/3665-twisted-mirror-path-count) |
@@ -112,6 +114,7 @@ MY solution of Leetcode Problems
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/adityarajput1023/DSA-/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/adityarajput1023/DSA-/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/adityarajput1023/DSA-/tree/master/1480-running-sum-of-1d-array) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/adityarajput1023/DSA-/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/adityarajput1023/DSA-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/adityarajput1023/DSA-/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1882-process-tasks-using-servers](https://github.com/adityarajput1023/DSA-/tree/master/1882-process-tasks-using-servers) |
@@ -211,6 +214,7 @@ MY solution of Leetcode Problems
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/adityarajput1023/DSA-/tree/master/1480-running-sum-of-1d-array) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/adityarajput1023/DSA-/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/adityarajput1023/DSA-/tree/master/3364-minimum-positive-sum-subarray) |
 ## Two Pointers
 |  |
